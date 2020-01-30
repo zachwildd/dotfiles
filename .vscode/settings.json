@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": false,
+    "debug.node.autoAttach": "on",
+    "html.format.wrapLineLength": 80,
+    "editor.tabSize": 2,
+    "editor.tabCompletion": "on",
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false
+}
